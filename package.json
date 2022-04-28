@@ -1,0 +1,17 @@
+{
+  "name": "third-project",
+  "version": "1.0.0",
+  "description": "this is my protfolio website",
+  "main": "mmm.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "protfolio",
+    "website",
+    "frontend",
+    "backend"
+  ],
+  "author": "Eletu Taiye Muhammad",
+  "license": "ISC"
+}
